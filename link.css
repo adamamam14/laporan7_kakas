@@ -3,7 +3,7 @@ li :hover {
 }
 
 li :active {
-    color: green;
+    color: blue;
 }
 
 li :visited {
