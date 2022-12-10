@@ -1,0 +1,11 @@
+li :hover {
+    color: white;
+}
+
+li :active {
+    color: green;
+}
+
+li :visited {
+    color : ;
+}
